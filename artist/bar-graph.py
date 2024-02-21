@@ -1,13 +1,12 @@
 import matplotlib.pyplot as plt
 
-def create_bar_graph(x_values, y_values, x_head, y_head, title=None, xlabel=None, ylabel=None):
+def create_bar_graph(x_values, y_values, x_head='', y_head='', title=None, xlabel=None, ylabel=None):
     plt.bar(x_values, y_values)
-    plt.xlabel(xlabel if xlabel else x_head)
-    plt.ylabel(ylabel if ylabel else y_head)
-    plt.title(title if title else f"{y_head} vs. {x_head}")
+    plt.xlabel(xlabel or x_head)
+    plt.ylabel(ylabel or y_head)
+    plt.title(title or f"{y_head} vs. {x_head}")
     plt.show()
 
-# Take user input for x and y values
 x_values = input("Enter x values separated by commas: ").split(',')
 y_values = [int(val) for val in input("Enter y values separated by commas: ").split(',')]
 x_head = input("Enter x axis label: ")
