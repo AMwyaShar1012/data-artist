@@ -18,7 +18,7 @@ This repository contains a collection of Python scripts for dynamically visualiz
 
 ## Dependencies
 
-- Python 3.x
+- Python 3
 - Matplotlib library
 
 ## Contributing
