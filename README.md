@@ -1,6 +1,6 @@
-# Dynamic Data Visualization with Matplotlib
+# Dynamic Data Visualization Bot
 
-This repository contains a collection of Python scripts for dynamically visualizing data using the Matplotlib library. The scripts allow users to create various types of plots, including bar graphs, pie charts, line charts, and scatter plots, with customizable titles, axis labels, and data points.
+This repository contains a collection of Python scripts for dynamically visualizing data witha bot, using the Matplotlib library. The scripts allow users to create various types of plots, including bar graphs, pie charts, line charts, and scatter plots, with customizable titles, axis labels, and data points.
 
 ## Features
 
