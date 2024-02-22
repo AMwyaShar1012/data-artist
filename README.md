@@ -12,14 +12,14 @@ This repository contains a collection of Python scripts for dynamically visualiz
 
 ## Usage
 
-1. Clone the repository to your local machine.
-2. Run the desired Python script according to the type of plot you want to create.
+1. Clone the repository to your machine.
+2. Run the desired Python script, according to the type of plot you want to create.
 3. Follow the prompts to input your data and customize the plot attributes.
-4. View and analyze the generated plot.
+4. USe the generated plot, to your needs.
 
 ## Dependencies
 
-- Python 3
+- Python 3.12 or 3.11
 - Matplotlib library
 
 ## Contributing
