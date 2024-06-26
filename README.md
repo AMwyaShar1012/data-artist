@@ -5,8 +5,8 @@ This repository contains a collection of Python scripts for dynamically visualiz
 ## Features
 
 - Customizable titles, axis labels, and data points.
-- Scripts for creating bar graphs, pie charts, line charts, and scatter plots.
-- User-friendly interface for inputting data and customizing plot attributes.
+- Scripts for creating bar graphs, pie charts, line charts, scatter plots and more!
+- User-friendly text interface for inputting data and customizing plot attributes.
 - Modular design for easy integration into existing projects.
 - Leveraging the Matplotlib library for high-quality visualizations.
 
