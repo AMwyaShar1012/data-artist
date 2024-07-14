@@ -15,7 +15,7 @@ This repository contains a collection of Python scripts for dynamically visualiz
 1. Clone the repository to your machine.
 2. Run the desired Python script, according to the type of plot you want to create.
 3. Follow the prompts to input your data and customize the plot attributes.
-4. USe the generated plot, to your needs.
+4. Use the generated plot, to your needs.
 
 ## Dependencies
 
